@@ -1,0 +1,29 @@
+{
+  "name": "jquery.routing",
+  "title": "jQuery Routing",
+  "description": "JavaScript library for simple web page routing",
+  "version": "1.0.0",
+  "main": "jquery.routing.js",
+  "homepage": "https://github.com/nsrosenqvist/jquery.routing/",
+  "author": {
+    "name": "Niklas Rosenqvist",
+    "url": "https://www.nsrosenqvist.com/",
+    "email": "niklas.s.rosenqvist@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nsrosenqvist/jquery.routing.git"
+  },
+  "keywords": [
+    "jquery",
+    "router",
+    "routing",
+    "library"
+  ],
+  "bugs": {
+    "url": "https://github.com/nsrosenqvist/jquery.routing/issues"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
