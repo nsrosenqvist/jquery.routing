@@ -8,7 +8,7 @@ Wordpress theme and packaged as a jQuery plugin.
 ## Installation
 
 ```bash
-npm install jquery.routing
+npm install @nsrosenqvist/jquery.routing
 ```
 
 ## Usage

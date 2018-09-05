@@ -1,7 +1,7 @@
 {
-  "name": "jquery.routing",
+  "name": "@nsrosenqvist/jquery.routing",
   "title": "jQuery Routing",
-  "description": "JavaScript library for simple web page routing",
+  "description": "JavaScript library for simple controlled script exectution",
   "version": "1.0.0",
   "main": "jquery.routing.js",
   "homepage": "https://github.com/nsrosenqvist/jquery.routing/",
